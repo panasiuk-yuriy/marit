@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/marit/static/css/main.251c587e.chunk.css",
+    "main.js": "/marit/static/js/main.38d41407.chunk.js",
+    "main.js.map": "/marit/static/js/main.38d41407.chunk.js.map",
+    "runtime-main.js": "/marit/static/js/runtime-main.642ec3d9.js",
+    "runtime-main.js.map": "/marit/static/js/runtime-main.642ec3d9.js.map",
+    "static/js/2.ce41beff.chunk.js": "/marit/static/js/2.ce41beff.chunk.js",
+    "static/js/2.ce41beff.chunk.js.map": "/marit/static/js/2.ce41beff.chunk.js.map",
+    "index.html": "/marit/index.html",
+    "static/css/main.251c587e.chunk.css.map": "/marit/static/css/main.251c587e.chunk.css.map",
+    "static/js/2.ce41beff.chunk.js.LICENSE.txt": "/marit/static/js/2.ce41beff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.642ec3d9.js",
+    "static/js/2.ce41beff.chunk.js",
+    "static/css/main.251c587e.chunk.css",
+    "static/js/main.38d41407.chunk.js"
+  ]
+}

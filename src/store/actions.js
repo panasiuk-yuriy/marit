@@ -22,7 +22,7 @@ export const addNewPerson = (race, newName) => ({
 });
 
 export const loadData = () => (dispatch) => {
-  const ws = new WebSocket('wss://testapi.marit.expert:3004');
+  const ws = new WebSocket('ws://testapi.marit.expert:3004');
 
   ws.onopen = () => {
     ws.send({ cmd: 'get_list' });

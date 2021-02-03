@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/marit/static/css/main.251c587e.chunk.css",
-    "main.js": "/marit/static/js/main.18e9e29c.chunk.js",
-    "main.js.map": "/marit/static/js/main.18e9e29c.chunk.js.map",
+    "main.css": "/marit/static/css/main.a4ccba05.chunk.css",
+    "main.js": "/marit/static/js/main.4de80817.chunk.js",
+    "main.js.map": "/marit/static/js/main.4de80817.chunk.js.map",
     "runtime-main.js": "/marit/static/js/runtime-main.642ec3d9.js",
     "runtime-main.js.map": "/marit/static/js/runtime-main.642ec3d9.js.map",
-    "static/js/2.ce41beff.chunk.js": "/marit/static/js/2.ce41beff.chunk.js",
-    "static/js/2.ce41beff.chunk.js.map": "/marit/static/js/2.ce41beff.chunk.js.map",
+    "static/js/2.c8fbbadc.chunk.js": "/marit/static/js/2.c8fbbadc.chunk.js",
+    "static/js/2.c8fbbadc.chunk.js.map": "/marit/static/js/2.c8fbbadc.chunk.js.map",
     "index.html": "/marit/index.html",
-    "static/css/main.251c587e.chunk.css.map": "/marit/static/css/main.251c587e.chunk.css.map",
-    "static/js/2.ce41beff.chunk.js.LICENSE.txt": "/marit/static/js/2.ce41beff.chunk.js.LICENSE.txt"
+    "static/css/main.a4ccba05.chunk.css.map": "/marit/static/css/main.a4ccba05.chunk.css.map",
+    "static/js/2.c8fbbadc.chunk.js.LICENSE.txt": "/marit/static/js/2.c8fbbadc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.642ec3d9.js",
-    "static/js/2.ce41beff.chunk.js",
-    "static/css/main.251c587e.chunk.css",
-    "static/js/main.18e9e29c.chunk.js"
+    "static/js/2.c8fbbadc.chunk.js",
+    "static/css/main.a4ccba05.chunk.css",
+    "static/js/main.4de80817.chunk.js"
   ]
 }
